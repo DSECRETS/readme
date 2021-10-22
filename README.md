@@ -1,4 +1,4 @@
-# Oi, eu sou o Daniel. O cara maais lindo do mundo, segunndo minha mãe. :D
+# Oi, eu sou o Daniel. O cara mais lindo do mundo, segundo minha mãe. :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DSECRETS)](https://github.com/DSECRETS)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/1danielnogueira/)](https://www.linkedin.com/in/1danielnogueira/)
